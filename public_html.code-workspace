@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../ドキュメント/public_html"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../練習用フォルダー"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "練習用フォルダー"
+	}
+}
